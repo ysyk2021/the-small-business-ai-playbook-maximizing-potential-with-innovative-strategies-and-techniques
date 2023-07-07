@@ -22,8 +22,5 @@
 - [Chapter 6: Evaluating the Impact of AI on Small Business](chapter-6.md)
   - [Measuring the ROI and Effectiveness of AI Implementation in Small Business](chapter-6-1.md)
   - [Identifying Key Performance Metrics and Goals for AI-Enhanced Small Business](chapter-6-2.md)
-- [Chapter 7: Conclusion](chapter-7.md)
-  - [The Future of AI Adoption in Small Business](chapter-7-1.md)
-  - [Final Thoughts and Tips for Harnessing AI for Optimal Small Business Performance](chapter-7-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
