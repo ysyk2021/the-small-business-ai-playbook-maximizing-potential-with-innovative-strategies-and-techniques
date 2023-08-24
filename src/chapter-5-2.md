@@ -1,5 +1,3 @@
-Mitigating Risks and Optimizing Operations with AI-Enabled Risk Management and Inventory Optimization
-=======================================================================================================================================================================
 
 AI technology can help small businesses mitigate risks and optimize operations, leading to improved efficiency and profitability. In this chapter, we'll explore two key AI strategies for maximizing small business potential: AI-enabled risk management and inventory optimization.
 

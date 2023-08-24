@@ -1,5 +1,3 @@
-The Future of AI Adoption in Small Business
-==================================================================
 
 The future of AI adoption in small business looks bright, with endless possibilities for innovation and growth. In this final chapter, we'll explore the potential of AI in small business and what the future holds for AI adoption.
 

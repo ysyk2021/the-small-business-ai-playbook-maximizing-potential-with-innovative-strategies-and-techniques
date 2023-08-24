@@ -1,5 +1,3 @@
-Improving Customer Experience with AI-Enabled Personalization and Recommendation
-====================================================================================================================================
 
 AI-powered personalization and recommendation tools can significantly improve the customer experience for small businesses. This chapter will provide an overview of AI techniques for small business growth, including how to improve customer experience with AI-enabled personalization and recommendation.
 

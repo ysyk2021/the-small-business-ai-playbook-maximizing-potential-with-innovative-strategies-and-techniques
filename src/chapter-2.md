@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Small Businesses
-===========================================================
 
 AI technology offers numerous opportunities for small businesses to achieve growth and success. However, understanding the basics of AI technology can be challenging. In this chapter, we will explore some key concepts and techniques of AI technology that small businesses need to understand.
 

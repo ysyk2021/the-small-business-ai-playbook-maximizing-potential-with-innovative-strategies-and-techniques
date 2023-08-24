@@ -1,5 +1,3 @@
-Enhancing Decision-Making with Predictive Analytics and Data Visualization
-==============================================================================================================================
 
 AI-powered analytics and data visualization tools can assist small businesses in making informed decisions and achieving growth. This chapter will provide an overview of AI techniques for small business growth, including how to enhance decision-making with predictive analytics and data visualization.
 

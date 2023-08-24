@@ -1,5 +1,3 @@
-Chapter 4: AI Techniques for Small Business Growth
-==================================================
 
 Small businesses can leverage AI technology to overcome challenges and achieve growth. In this chapter, we will explore some of the most effective AI techniques for small business growth.
 

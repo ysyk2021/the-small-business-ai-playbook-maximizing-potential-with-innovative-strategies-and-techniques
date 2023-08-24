@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Applications for Small Business
-=================================================================================================================================
 
 AI technology offers numerous opportunities for small businesses to achieve growth and success. In this chapter, we will explore different types of AI techniques and applications that small businesses can leverage to achieve their goals.
 

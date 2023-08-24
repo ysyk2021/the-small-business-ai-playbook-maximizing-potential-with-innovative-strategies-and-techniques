@@ -1,5 +1,3 @@
-Basic Concepts and Processes of AI Algorithms for Small Business
-=============================================================================================================================
 
 AI technology is becoming increasingly important for small businesses looking to stay competitive in today's market. In this chapter, we will explore some basic concepts and processes of AI algorithms that small businesses can use to understand AI technology.
 

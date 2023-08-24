@@ -1,5 +1,3 @@
-Fostering Employee Engagement and Retention with AI-Enabled HR and Performance Management
-===========================================================================================================================================================
 
 Employee engagement and retention are critical components of any successful business. However, small businesses often struggle to implement effective strategies due to limited resources and time constraints. With the advent of artificial intelligence (AI), small businesses can now leverage this technology to improve their HR and performance management processes.
 

@@ -1,5 +1,3 @@
-Chapter 6: Evaluating the Impact of AI on Small Business
-========================================================
 
 Evaluating the impact of AI on small business is crucial for measuring the ROI and effectiveness of AI implementation. In this chapter, we'll explore strategies for evaluating the impact of AI on small business, including measuring ROI and effectiveness, and identifying key performance metrics and goals.
 

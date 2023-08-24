@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI for Small Businesses
-=======================================================
 
 AI technology offers numerous opportunities for small businesses to overcome challenges and achieve success. However, getting started with AI can be challenging. In this chapter, we will explore some key steps that small businesses can take to get started with AI.
 
