@@ -24,3 +24,4 @@
   - [Identifying Key Performance Metrics and Goals for AI-Enhanced Small Business](chapter-6-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
